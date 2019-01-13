@@ -1,0 +1,14 @@
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\bin\Debug\netcoreapp2.1\Pie Shop.deps.json
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\bin\Debug\netcoreapp2.1\Pie Shop.runtimeconfig.json
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\bin\Debug\netcoreapp2.1\Pie Shop.runtimeconfig.dev.json
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\bin\Debug\netcoreapp2.1\Pie Shop.dll
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\bin\Debug\netcoreapp2.1\Pie Shop.pdb
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.csprojAssemblyReference.cache
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.csproj.CoreCompileInputs.cache
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.RazorAssemblyInfo.cache
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.RazorAssemblyInfo.cs
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.AssemblyInfoInputs.cache
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.AssemblyInfo.cs
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.RazorTargetAssemblyInfo.cache
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.dll
+D:\dot net class\dotnet intern\dot net core\projects\Pie Shop\Pie Shop\obj\Debug\netcoreapp2.1\Pie Shop.pdb
